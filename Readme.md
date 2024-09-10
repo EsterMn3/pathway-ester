@@ -7,7 +7,7 @@ PathWay is a workout tracker application that allows users to log and visualize 
 <br />
 <div align="center">
   <a href="https://pathway-ester.netlify.app/">
-    <img src="pathway_logo" alt="Logo" height="70">
+    <img src="pathWay_logo.webp" alt="Logo" height="70">
   </a>
   <h1 align="center">PathWay</h1>
 
@@ -32,6 +32,10 @@ PathWay is a workout tracker application that allows users to log and visualize 
 - Leaflet api for interactive maps
 - Geolocation API for location tracking
 - LocalStorage for data persistence
+
+### Flowchart
+
+<img src='PathWay-architecture-final.png' alt='flowchart' >
 
 ## Installation
 
